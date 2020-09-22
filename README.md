@@ -25,3 +25,9 @@ Parse directly the HTML result page ([html file]) in this repository. No extra H
 Add also to your array the painting thumbnails present in the result page file (not the ones where extra requests are needed). 
 
 Test against 2 other similar result pages. (Pages that contain the same kind of carrousel. Don't necessarily have to be paintings.)
+
+
+ # Application in moment based marketing
+
+Serp-API can be used to get high quality ranked images and videos for specific entries to create templates for moment based system design.. for example use of creative templates in Creative Management platform.
+For example - in above repository - Van Gogh paintings are extracted from Google Search results page.
